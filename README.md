@@ -1,12 +1,11 @@
 # CODTECH-Internship-task-1
 
 About Me :
-Hello, my name : K.Kalaivani
+name : K.Kalaivani
 Company : CODTECH IT SOLUTIONS
 ID :CT08DS443
 Domain : Frontend web development 
-Duration : December 12th, 2024 to January 12th, 2025 , and I am currently pursuing an internship in Digital Marketing. With a passion for digital technologies and online marketing strategies, I aim to expand my knowledge and gain hands-on experience in areas like SEO, social media marketing, and content creation. This internship offers me the opportunity to work with real-world marketing projects and contribute to the growth of brands in the digital space.
-
+Duration : December 12th, 2024 to January 12th, 2025 
 ### *Overview of the Portfolio Website Project*
 
 This project is a *personal portfolio website* that showcases the skills, projects, and contact details of an individual. It is built using *HTML* and *CSS*, providing a simple yet visually appealing layout. 
